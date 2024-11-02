@@ -1,0 +1,136 @@
+@media(max-width:768px) {
+    .details {
+        display: none;
+    }
+
+    .logo {
+        width: 100%;
+        float: none;
+    }
+
+    nav ul li {
+        display: none;
+    }
+
+    .main {
+        width: 100%;
+        height: 100%;
+    }
+
+    .aboutUs {
+        width: 100%;
+        float: none;
+    }
+
+    .registerNow {
+        width: 100%;
+        margin: 0 0 0 0%;
+
+    }
+
+    .row1img1,
+    .row1img2,
+    .row1img3,
+    .row1img4,
+    .row2img1,
+    .row2img2,
+    .row2img3,
+    .row2img4,
+    .row3img1,
+    .row3img2,
+    .row3img3,
+    .row3img4,
+    .row4img1,
+    .row4img2,
+    .row4img3,
+    .row4img4 {
+        width: 100%;
+        height: 100%;
+        float: none;
+    }
+
+    .coursetypes img {
+        width: 100%;
+        height: auto;
+    }
+
+    .newbatches .timetable {
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .trainingmode .first,
+    .trainingmode .second,
+    .trainingmode .third,
+    .trainingmode .fourth {
+        width: 100%;
+        height: 250px;
+        float: none;
+    }
+
+    .whychooseus .row1text1,
+    .row1text2,
+    .row2text1,
+    .row2text2 {
+        width: 100%;
+        float: none;
+    }
+
+    .placementimg .img1,
+    .img2,
+    .img3,
+    .img4 {
+        width: 100%;
+        margin: 2%;
+        float: none;
+    }
+
+    .arow .aimg1,
+    .aimg2,
+    .aimg3,
+    .aimg4,
+    .brow .bimg1,
+    .bimg2,
+    .bimg3,
+    .bimg4 {
+        width: 60%;
+        height: auto;
+        float: none;
+
+    }
+
+    .companies .company1,
+    .company2,
+    .company3,
+    .company4,
+    .company5 {
+        width: 150px;
+        height: 75px;
+        float: none;
+        margin: 5px;
+    }
+
+    .footerdiv .about,
+    .quicklinks,
+    .reachus,
+    .contactus {
+        width: 100%;
+        height: 80%;
+        float: none;
+    }
+
+    .copyrightsabout {
+        width: 100%;
+    }
+
+    .callbutton {
+        margin: 0 0 35px 85%;
+    }
+
+    .row1img1 img {
+        width: 100%;
+    }
+
+
+}
